@@ -36,10 +36,15 @@ Repositori ini berisi tugas ke-4 mata kuliah **Praktikum Kecerdasan Buatan**, ya
 
 ## 📁 Struktur Folder
 TUGAS_PRAKKB/
+
 ├── basis_pengetahuan.pl # File basis pengetahuan Prolog
+
 ├── hasil_diagnosa.py # Tampilan hasil diagnosa
+
 ├── main_app.py # File utama aplikasi (GUI)
+
 ├── pertanyaan_padi.py # Daftar pertanyaan/gejala
+
 ├── pycache/ # Cache Python
 
 
