@@ -58,4 +58,4 @@ python main_app.py
 
 **🧾 Lisensi**
 
-Proyek ini dibuat hanya untuk kebutuhan akademik. Gunakan dan modifikasi sesuai kebutuhan.
+Proyek ini dibuat hanya untuk kebutuhan akademik.
