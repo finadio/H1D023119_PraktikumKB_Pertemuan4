@@ -45,9 +45,6 @@ TUGAS_PRAKKB/
 
 ├── pertanyaan_padi.py # Daftar pertanyaan/gejala
 
-├── pycache/ # Cache Python
-
-
 ## 🚀 Cara Menjalankan
 
 1. Pastikan Python 3 sudah terpasang.
