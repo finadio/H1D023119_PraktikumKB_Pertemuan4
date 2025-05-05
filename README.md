@@ -56,5 +56,5 @@ python main_app.py
 3. Ikuti pertanyaan yang muncul.
 4. Diagnosa akan ditampilkan di akhir berdasarkan gejala yang dipilih.
 
-##🧾 Lisensi
+**🧾 Lisensi**
 Proyek ini dibuat hanya untuk kebutuhan akademik. Gunakan dan modifikasi sesuai kebutuhan.
